@@ -1,0 +1,17 @@
+{
+    "users" : [
+        {
+            "id":1,
+            "fullname":"Fatime Qayxanova",
+            "branch":"Web Development",
+            "ours": 140
+        },
+        {
+            "id":2,
+            "fullname":"Sadiqxan Qayxanova",
+            "branch":"Game Development",
+            "ours": 200
+        }
+
+    ]
+}
